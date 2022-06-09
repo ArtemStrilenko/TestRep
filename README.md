@@ -1,3 +1,2 @@
 text
 popravka
-eshcho odna
